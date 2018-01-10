@@ -1,0 +1,389 @@
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.Resources.resources
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.vbproj.GenerateResource.Cache
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.exe.licenses
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\luk_termos.exe
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\luk_termos.pdb
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\Npgsql.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\Npgsql.pdb
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\Npgsql.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.exe
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.pdb
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.frm_materiales.resources
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.vbprojResolveAssemblyReference.cache
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.frm_articulos.resources
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.frm_clientes.resources
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.frm_proveedores.resources
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.exe
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.pdb
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\luk_termos.exe
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\luk_termos.pdb
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\Npgsql.pdb
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\Npgsql.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.vbprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.frm_articulos.resources
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.frm_clientes.resources
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.frm_materiales.resources
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.frm_proveedores.resources
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.Resources.resources
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.vbproj.GenerateResource.Cache
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.exe.licenses
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.exe
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.pdb
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.vbprojResolveAssemblyReference.cache
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.frm_articulos.resources
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.frm_clientes.resources
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.frm_materiales.resources
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.frm_proveedores.resources
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.Resources.resources
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.vbproj.GenerateResource.Cache
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.exe.licenses
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\luk_termos.exe
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\luk_termos.pdb
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\Npgsql.pdb
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\Npgsql.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\favio\Documents\GitHub\luk_termos\luk_termos\obj\Debug\luk_termos.frm_vista_articulos.resources
+C:\Users\SOPORTE\Desktop\REPO LOCAL\trunk\luk_termos\obj\Debug\luk_termos.frm_vista_articulos.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.exe
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.pdb
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\luk_termos.exe
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\luk_termos.pdb
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\Npgsql.pdb
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\Npgsql.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.frm_articulos.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.frm_clientes.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.frm_materiales.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.frm_proveedores.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.frm_vista_articulos.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.frm_vista_materiales.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.Resources.resources
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.vbproj.GenerateResource.Cache
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.exe.licenses
+D:\Desarrollo\Desktop\REPOSITORIO\branches\favio\luk_termos\obj\Debug\luk_termos.frm_empleados.resources
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.frm_empleados.resources
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.frm_vista_articulos.resources
+C:\Users\favio\Desktop\luk_termos\luk_termos\obj\Debug\luk_termos.frm_vista_materiales.resources

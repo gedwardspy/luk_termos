@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4980ADBC-DB1E-4A41-925B-4794970F8C58}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>luk_termos</RootNamespace>
+    <AssemblyName>luk_termos</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>luk_termos.My.MyApplication</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v16.1" />
+    <Reference Include="DevExpress.Data.v16.1" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v16.1" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v16.1" />
+    <Reference Include="DevExpress.XtraGrid.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Npgsql">
+      <HintPath>..\..\..\..\..\Program Files (x86)\PostgreSQL\Npgsql\bin\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexiones\conexion.vb" />
+    <Compile Include="formularios\frm_articulos.Designer.vb">
+      <DependentUpon>frm_articulos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_articulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frm_clientes.Designer.vb">
+      <DependentUpon>frm_clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frm_empleados.Designer.vb">
+      <DependentUpon>frm_empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frm_materiales.Designer.vb">
+      <DependentUpon>frm_materiales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_materiales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frm_proveedores.Designer.vb">
+      <DependentUpon>frm_proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frm_vista_articulos.Designer.vb">
+      <DependentUpon>frm_vista_articulos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_vista_articulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frm_vista_materiales.Designer.vb">
+      <DependentUpon>frm_vista_materiales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_vista_materiales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="funciones\func_articulos.vb" />
+    <Compile Include="funciones\func_clientes.vb" />
+    <Compile Include="funciones\func_empleados.vb" />
+    <Compile Include="funciones\func_materiales.vb" />
+    <Compile Include="funciones\func_proveedores.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="util\utilidades.vb" />
+    <EmbeddedResource Include="formularios\frm_articulos.resx">
+      <DependentUpon>frm_articulos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frm_clientes.resx">
+      <DependentUpon>frm_clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frm_empleados.resx">
+      <DependentUpon>frm_empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frm_materiales.resx">
+      <DependentUpon>frm_materiales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frm_proveedores.resx">
+      <DependentUpon>frm_proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frm_vista_articulos.resx">
+      <DependentUpon>frm_vista_articulos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frm_vista_materiales.resx">
+      <DependentUpon>frm_vista_materiales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
